@@ -1,2 +1,24 @@
-
+.holder{
+display-wrap:wrap;
+	display:flex;
+	justify-content:space-evenly;
+	flex-wrap:wrap;
+}
+.item3{
+	width:90px;
+	height:90px;
+	background-color:green;
+	font-size:40px;
+}
+.item1{
+	width:90px;
+	height:90px;
+	font-size:40px;
+	background-color:red;
+}
+.item2{width:90px;
+	height:90px;
+	font-size:40px;
+	background-color:#0000ff;
+}
 /* Your CSS Code here. */
